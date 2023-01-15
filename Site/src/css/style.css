@@ -9,3 +9,25 @@
   font-family: "Roboto", sans-serif;
 }
 
+<<<<<<< HEAD
+/* main{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+} */
+
+img.img1 {
+  height: 100vh;
+  width: 100%;
+}
+img.img2 {
+  height: 100vh;
+  width: 100%;
+}
+img.img3 {
+  height: 90vh;
+  width: 110%;
+}
+=======
+>>>>>>> 215cb6e6f87421bbd6c81aa730d72fbc7c768079
